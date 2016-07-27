@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Work\Java\AndroidStudioProjects\Goyo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="830b0577e53eeb55b1eed8e6350e91b8cef52a74">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\Goyo\app\build\intermediates\pre-dexed\debug\instant-run_4608f60d1ad904848ae409673c16ec7a59c0fdcb.jar" />
+    </item>
+    <item
+        jar="C:\Work\Java\AndroidStudioProjects\Goyo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cf405cf117c4d776802f4b52e493f7717157e4ab">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\Goyo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_07293cccffd86efeb23ed757a02a711b86297b6d.jar" />
+    </item>
+    <item
+        jar="C:\Develop\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\Goyo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_85656ab71946d40283a72e0427190b4a8a583aa0.jar" />
+    </item>
+
+</items>
